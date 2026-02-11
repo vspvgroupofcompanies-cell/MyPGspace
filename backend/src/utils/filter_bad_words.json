@@ -1,0 +1,32 @@
+{
+    "categories": {
+        "english": [
+            "badword1",
+            "badword2",
+            "fuck",
+            "shit",
+            "asshole",
+            "bitch",
+            "bastard"
+        ],
+        "telugu": [
+            "lanja",
+            "baduvu",
+            "pichodu",
+            "modda",
+            "puku",
+            "dengu"
+        ],
+        "hindi": [
+            "saala",
+            "kutta",
+            "kamina",
+            "gand",
+            "chutiya",
+            "behenchod",
+            "madarchod",
+            "gaandu"
+        ]
+    },
+    "instruction": "This list is used to maintain mutual respect. Please use professional language in complaints."
+}
